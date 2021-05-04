@@ -1,5 +1,5 @@
 # DZT
-Validate DNS Zone Transfer For Your Website 
+Check for DNS Zone Transfer For Your Website 
 
 Install:
 1. git clone https://github.com/kintrosec/DZT.git
